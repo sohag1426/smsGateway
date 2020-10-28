@@ -14,7 +14,7 @@
 * getMerchant(sms_gateway $sms_gateway){}
   * Return operator instance of the sms gateway
 
-* getSmsGws(operator $operator){}
+* getSmsGw(operator $operator){}
   * If operator has one sms gateways return the sms gateway.
   * If group admin of the operator has one sms gateway return the sms gateway.
   * If Super Admin of the operator has one sms gateway return the sms gateway.
